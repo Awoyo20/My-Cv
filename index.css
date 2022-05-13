@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.picture{
+    padding-left: 800px;
+}
+.hey{
+    direction:ltr;
+}
+.about{
+    background-color: gray;
+    justify-content: center;
+    align-content: center;
+}
+.testy{
+    position: absolute;
+    top: 3500px;
+    left: 700px;
+}
+.testy2{
+    position: absolute;
+    top: 2700px;
+    left: 1100px;
+}
+.bos1{
+    background-color: blue;
+    width: 300px;
+    height: 450px;
+}
+.bos2{
+    background-color: antiquewhite;
+    width: 580px;
+    height: 200px;
+    position: absolute;
+    top: 100px;
+    left: 320px;
+}
+.bos3{
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 320px;
+    left: 320px;
+}
+.bos4{
+    background-color: blue;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    top: 320px;
+    left: 590px;
+}
+.bos5{
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 570px;
+
+}
+.bos6{
+    background-color: darkturquoise;
+    width: 300px;
+    height: 600px;
+    
+}
+.tree{
+    position: absolute;
+    top: 3500px;
+    left: 100px;
+    box-sizing: border-box;
+}
+.jay{
+    position: absolute;
+    left: 100px;
+    top: 750px;
+}
+.sam{
+    position: absolute;
+    top: 850px;
+    left: 200px;
+}
+.sam2{
+    position: absolute;
+    top: 850px;
+    left: 500px;
+}
+.samuel{
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+}
+.debo{
+    position: absolute;
+    top: 1250px;
+    left: 150px;
+}
+.debo2{
+    position: absolute;
+    top: 1250px;
+    left: 500px;
+}
+.debo3{
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+}
+.tosin{
+    position: absolute;
+    top: 1800px;
+    left: 100px;
+}
+.nikey{
+    position: absolute;
+    top: 1700px;
+    left: 100px;
+}
+.navbar-text {
+    position: absolute;
+    left: 1300px;
+    z-index: 2;
+}
+
+.yemi{
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+.about {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+    
+}
